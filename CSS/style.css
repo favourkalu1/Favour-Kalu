@@ -1,0 +1,110 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #66bfbf;
+}
+h1{ 
+    color: #66bfbf;
+}
+ h2{
+    color:  #66bfbf;;
+ }   
+h3{
+    color: #66bfbf;;
+} 
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;   
+/*
+border: 10px;
+border:solid 10px; */
+}
+.middle-container{
+background-color: white;
+margin: 0;
+padding-top: 25px;
+
+/*
+border:solid 10px;
+margin-left: 260px; */
+
+}
+.bottom-container{
+    background-color: #77d9d1;
+    
+padding: 50px 0 20px;
+margin-top: 50px;
+/*
+border:solid 10px;
+margin-left: 520px;*/
+}
+.pro{
+    text-decoration: underline;
+    color: #66bfbf;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top: 100px;
+    
+}
+.favour-image{
+   radius:100px ;
+   position: absolute;
+   margin-right: 100px;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+hr {
+    background-color: white;
+    border-style:dotted none none; 
+    border-color: #77d9d1;
+    border-width: 5px ;
+    height: 0;
+    width: 5%;
+
+}
+.skill-row{
+    width: 50%;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+    text-align: left;
+}
+
+.computer{ 
+    width: 20%;
+    height: 5%;
+    margin-right: 30px;
+float: left;
+border-radius: 100px;
+}
+.apple{
+    position: absolute;
+    right: 5px;
+    width:20%;
+    height: 20%;
+    margin-right: 100px;
+    float: right;
+    border-radius: 100px;
+
+    
+    border-radius: 100px;
+}
+p{
+    color: black;
+}
+
+
+
